@@ -8,7 +8,6 @@ export default function Header() {
           <h1 className="text-4xl font-bold">🕌 Rafeeqy</h1>
         </div>
         <p className="text-blue-100 text-lg"> Alhamdulillah - All Praises and Adorations are Due to Almighty Allah</p>
-        <p className="text-sm text-blue-100 mt-2" aria-label="Website features">Prayer Times • Quran • Hadith • Islamic Knowledge</p>
       </div>
     </header>
   )
